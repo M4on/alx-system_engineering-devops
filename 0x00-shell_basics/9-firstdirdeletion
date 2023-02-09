@@ -1,2 +1,2 @@
 #!/bin/bashselect 
-rmdir /tmp/my_first_directory
+rm -rf /tmp/my_first_directory
