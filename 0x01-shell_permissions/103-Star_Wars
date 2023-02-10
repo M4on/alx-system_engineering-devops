@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod +x StarWars_IV.mp4
+telnet towel.blinkenlights.nl
+
